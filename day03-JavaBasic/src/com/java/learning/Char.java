@@ -3,7 +3,7 @@ package com.java.learning;
 /*
 * */
 public class Char {
-    public static void main(String[] args) {
+    public static void main(StringDemo[] args) {
         System.out.println("Char");
         // 字符类型：char(2字节)
 

@@ -16,7 +16,7 @@ package com.java.learning;
 * */
 
 public class Auto {
-    public static void main(String[] args) {
+    public static void main(StringDemo[] args) {
         int i1 = 10;
         int i2 = i1;
 

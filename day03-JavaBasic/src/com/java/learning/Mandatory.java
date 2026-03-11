@@ -7,7 +7,7 @@ package com.java.learning;
 * 3.强制类型转换过程中可能导致精度损失
 * */
 public class Mandatory {
-    public static void main(String[] args) {
+    public static void main(StringDemo[] args) {
         double d1 =12;// 自动类型转换
 
         // 编译失败

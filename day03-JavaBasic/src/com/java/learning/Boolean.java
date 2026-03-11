@@ -1,7 +1,7 @@
 package com.java.learning;
 // Java中的布尔类型
 public class Boolean {
-    public static void main(String[] args) {
+    public static void main(StringDemo[] args) {
         System.out.println("Boolean");
 
         // 布尔类型：boolean
