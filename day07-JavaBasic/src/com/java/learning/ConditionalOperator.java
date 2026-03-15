@@ -7,6 +7,11 @@ package com.java.learning;
     若结果为true：运算结果是表达式1
     若结果为false：运算结果是表达式2
 表达式1和表达式2需要是相同的类型或者是能兼容的类型
+
+结论：开发中，凡是可以使用条件运算符的位置，都可以改写为if-else。
+    反之，能使用if-else结构，不一定能改写为条件运算符。
+
+建议：在二者都能使用的情况下，推荐使用条件运算符。因为执行效率稍高。
  */
 public class ConditionalOperator {
     public static void main(String[] args) {
