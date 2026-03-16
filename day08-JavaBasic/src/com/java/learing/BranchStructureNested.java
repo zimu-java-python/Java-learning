@@ -7,39 +7,50 @@ package com.java.learing;
 1.从开发经验上讲，没有写过超过三层的嵌套if-else结构。
 2. 如果if-else中的执行语句块中只有一行执行语句，则此执行语句所在的一对{}可以省略。但是，不建议省略
  */
+
+import java.util.Scanner;
 public class BranchStructureNested {
     public static void main(String[] args) {
-    int num1=90;
-    int num2=57;
-    int num3=59;
-    if (num1 < num2){
-        if (num3 > num2){
-            System.out.print(num1 + "<");
-            System.out.print(num2 + "<");
-            System.out.print(num3);
-        }else if (num3 < num1){
-            System.out.print(num3 + "<");
-            System.out.print(num1 + "<");
-            System.out.print(num2);
-        }else {
-            System.out.print(num1 + "<");
-            System.out.print(num3 + "<");
-            System.out.print(num2);
-        }
-    }else{
-        if (num3 > num1){
-            System.out.print(num2 + "<");
-            System.out.print(num1 + "<");
-            System.out.print(num3);
-        }else if (num3 < num2){
-            System.out.print(num3 + "<");
-            System.out.print(num2 + "<");
-            System.out.print(num1);
+
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("请输入第一个数字：");
+        int num1=input.nextInt();
+
+        System.out.print("请输入第二个数字：");
+        int num2=input.nextInt();
+
+        System.out.print("请输入第三个数字：");
+        int num3=input.nextInt();
+
+        if (num1 < num2){
+            if (num3 > num2){
+                System.out.print(num1 + "<");
+                System.out.print(num2 + "<");
+                System.out.print(num3);
+            }else if (num3 < num1){
+                System.out.print(num3 + "<");
+                System.out.print(num1 + "<");
+                System.out.print(num2);
+            }else {
+                System.out.print(num1 + "<");
+                System.out.print(num3 + "<");
+                System.out.print(num2);
+            }
         }else{
-            System.out.print(num2 + "<");
-            System.out.print(num3 + "<");
-            System.out.print(num1);
+            if (num3 > num1){
+                System.out.print(num2 + "<");
+                System.out.print(num1 + "<");
+                System.out.print(num3);
+            }else if (num3 < num2){
+                System.out.print(num3 + "<");
+                System.out.print(num2 + "<");
+                System.out.print(num1);
+            }else{
+                System.out.print(num2 + "<");
+                System.out.print(num3 + "<");
+                System.out.print(num1);
+            }
+        }
         }
     }
-    }
-}
