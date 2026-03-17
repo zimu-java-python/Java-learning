@@ -30,6 +30,10 @@ case后都是常量，不能写范围
 break:可以使用在switch-case中，一旦执行此break关键字，就跳出当前的switch-case结构
 default:类似于if-else中的else结构。
     default是可选的，而且位置是灵活的。
+4.switch-case 与if-else之间的转换
+    开发中凡是可以使用switch-case结构的场景，都可以改写为if-else，反之不成立
+    开发中，如果一个具体问题既可以使用switch-case，又可以使用if-else的时候，推荐使用switch-case。
+    为什么?switch-case相较于if-else效率稍高。|
  */
 public class SwitchCase {
     public static void main(String[] args) {

@@ -3,14 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-learning.iml" filepath="$PROJECT_DIR$/.idea/Java-learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day01-JavaBasic/day01-JavaBasic.iml" filepath="$PROJECT_DIR$/day01-JavaBasic/day01-JavaBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day02-JavaBasic/day02-JavaBasic.iml" filepath="$PROJECT_DIR$/day02-JavaBasic/day02-JavaBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day03-JavaBasic/day03-JavaBasic.iml" filepath="$PROJECT_DIR$/day03-JavaBasic/day03-JavaBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day04-JavaBasic/day04-JavaBasic.iml" filepath="$PROJECT_DIR$/day04-JavaBasic/day04-JavaBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day05-JavaBasic/day05-JavaBasic.iml" filepath="$PROJECT_DIR$/day05-JavaBasic/day05-JavaBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day07-JavaBasic/day07-JavaBasic.iml" filepath="$PROJECT_DIR$/day07-JavaBasic/day07-JavaBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day08-JavaBasic/day08-JavaBasic.iml" filepath="$PROJECT_DIR$/day08-JavaBasic/day08-JavaBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day09-JavaBasic/day09-JavaBasic.iml" filepath="$PROJECT_DIR$/day09-JavaBasic/day09-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekone/Weekone.iml" filepath="$PROJECT_DIR$/Weekone/Weekone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weektwo/Weektwo.iml" filepath="$PROJECT_DIR$/Weektwo/Weektwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekone/day01-JavaBasic/day01-JavaBasic.iml" filepath="$PROJECT_DIR$/Weekone/day01-JavaBasic/day01-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekone/day02-JavaBasic/day02-JavaBasic.iml" filepath="$PROJECT_DIR$/Weekone/day02-JavaBasic/day02-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekone/day03-JavaBasic/day03-JavaBasic.iml" filepath="$PROJECT_DIR$/Weekone/day03-JavaBasic/day03-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekone/day04-JavaBasic/day04-JavaBasic.iml" filepath="$PROJECT_DIR$/Weekone/day04-JavaBasic/day04-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekone/day05-JavaBasic/day05-JavaBasic.iml" filepath="$PROJECT_DIR$/Weekone/day05-JavaBasic/day05-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekone/day07-JavaBasic/day07-JavaBasic.iml" filepath="$PROJECT_DIR$/Weekone/day07-JavaBasic/day07-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weektwo/day08-JavaBasic/day08-JavaBasic.iml" filepath="$PROJECT_DIR$/Weektwo/day08-JavaBasic/day08-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weektwo/day09-JavaBasic/day09-JavaBasic.iml" filepath="$PROJECT_DIR$/Weektwo/day09-JavaBasic/day09-JavaBasic.iml" />
     </modules>
   </component>
 </project>
