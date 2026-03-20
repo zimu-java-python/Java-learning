@@ -12,7 +12,7 @@ public class PrimeNumberCase3 {
 
         int count = 0;// 记录质数的个数
 
-        for (int i = 2;i <= 100000;i++){ // 遍历100以内的自然数
+        for (int i = 2;i <= 100000;i++){ // 遍历100000以内的自然数
 
             // 判断i是否是质数
             for (int j = 2;j <= Math.sqrt(i);j++){ // Math.sqrt(i)开根号
