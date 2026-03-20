@@ -16,7 +16,7 @@ public class PrimeNumberCase3 {
 
             // 判断i是否是质数
             for (int j = 2;j <= Math.sqrt(i);j++){ // Math.sqrt(i)开根号
-
+            // Math.sqrt(i)是用来限制j的上限，并不会改变i本身
                 if (i % j == 0){
                     isFlag = false;
                     break;// 针对非质数有效果
