@@ -9,4 +9,7 @@ package com.java.learning;
  * @Version 1.0
  */
 public class HelloChina {
+    public static void main(String[] args) {
+
+    }
 }
