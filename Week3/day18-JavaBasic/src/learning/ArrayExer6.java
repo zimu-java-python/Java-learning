@@ -1,4 +1,4 @@
-package com.java.learning;
+package learning;
 
 /**
  * ClassName：ArrayExer6

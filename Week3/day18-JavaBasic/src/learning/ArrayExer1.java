@@ -1,4 +1,4 @@
-package com.java.learning;
+package learning;
 
 import java.awt.*;
 
