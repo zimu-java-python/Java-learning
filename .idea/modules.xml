@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/Week3.iml" filepath="$PROJECT_DIR$/Week3/Week3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4.iml" filepath="$PROJECT_DIR$/Week4/Week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/Week5.iml" filepath="$PROJECT_DIR$/Week5/Week5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/day01-JavaBasic/day01-JavaBasic.iml" filepath="$PROJECT_DIR$/Week1/day01-JavaBasic/day01-JavaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/day02-JavaBasic/day02-JavaBasic.iml" filepath="$PROJECT_DIR$/Week1/day02-JavaBasic/day02-JavaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/day03-JavaBasic/day03-JavaBasic.iml" filepath="$PROJECT_DIR$/Week1/day03-JavaBasic/day03-JavaBasic.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/Week4/day24-JavaBasic/day24-JavaBasic.iml" filepath="$PROJECT_DIR$/Week4/day24-JavaBasic/day24-JavaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/day25-JavaBasic/day25-JavaBasic.iml" filepath="$PROJECT_DIR$/Week4/day25-JavaBasic/day25-JavaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/day26-JavaBasic/day26-JavaBasic.iml" filepath="$PROJECT_DIR$/Week4/day26-JavaBasic/day26-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/day30-JavaBasic/day30-JavaBasic.iml" filepath="$PROJECT_DIR$/Week5/day30-JavaBasic/day30-JavaBasic.iml" />
     </modules>
   </component>
 </project>
